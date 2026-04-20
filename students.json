@@ -1,0 +1,15 @@
+{
+    "nathan": {
+        "grades": [
+            {
+                "subject": "history",
+                "score": 20.0
+            },
+            {
+                "subject": "maths",
+                "score": 59.0
+            }
+        ],
+        "attendance": 54
+    }
+}
