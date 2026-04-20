@@ -11,5 +11,168 @@
             }
         ],
         "attendance": 54
+    },
+    "alice": {
+        "grades": [
+            {
+                "subject": "physics",
+                "score": 88.0
+            },
+            {
+                "subject": "chemistry",
+                "score": 92.5
+            }
+        ],
+        "attendance": 98
+    },
+    "benjamin": {
+        "grades": [
+            {
+                "subject": "computing",
+                "score": 45.0
+            },
+            {
+                "subject": "english",
+                "score": 38.0
+            }
+        ],
+        "attendance": 72
+    },
+    "chloe": {
+        "grades": [
+            {
+                "subject": "maths",
+                "score": 75.0
+            },
+            {
+                "subject": "art",
+                "score": 82.0
+            }
+        ],
+        "attendance": 90
+    },
+    "david": {
+        "grades": [
+            {
+                "subject": "geography",
+                "score": 55.0
+            },
+            {
+                "subject": "history",
+                "score": 60.0
+            }
+        ],
+        "attendance": 85
+    },
+    "elena": {
+        "grades": [
+            {
+                "subject": "biology",
+                "score": 30.0
+            },
+            {
+                "subject": "maths",
+                "score": 25.0
+            }
+        ],
+        "attendance": 40
+    },
+    "felix": {
+        "grades": [
+            { "subject": "computing", "score": 85.0 },
+            { "subject": "maths", "score": 78.0 }
+        ],
+        "attendance": 92
+    },
+    "grace": {
+        "grades": [
+            { "subject": "biology", "score": 35.0 },
+            { "subject": "chemistry", "score": 42.0 }
+        ],
+        "attendance": 75
+    },
+    "hannah": {
+        "grades": [
+            { "subject": "art", "score": 95.0 },
+            { "subject": "history", "score": 88.0 }
+        ],
+        "attendance": 100
+    },
+    "isaac": {
+        "grades": [
+            { "subject": "physics", "score": 55.0 },
+            { "subject": "maths", "score": 48.0 }
+        ],
+        "attendance": 82
+    },
+    "jack": {
+        "grades": [
+            { "subject": "english", "score": 25.0 },
+            { "subject": "geography", "score": 30.0 }
+        ],
+        "attendance": 60
+    },
+    "katherine": {
+        "grades": [
+            { "subject": "sociology", "score": 72.0 },
+            { "subject": "politics", "score": 68.0 }
+        ],
+        "attendance": 89
+    },
+    "liam": {
+        "grades": [
+            { "subject": "business", "score": 45.0 },
+            { "subject": "economics", "score": 52.0 }
+        ],
+        "attendance": 81
+    },
+    "mia": {
+        "grades": [
+            { "subject": "maths", "score": 91.0 },
+            { "subject": "computing", "score": 94.0 }
+        ],
+        "attendance": 96
+    },
+    "noah": {
+        "grades": [
+            { "subject": "physics", "score": 15.0 },
+            { "subject": "chemistry", "score": 22.0 }
+        ],
+        "attendance": 45
+    },
+    "olivia": {
+        "grades": [
+            { "subject": "history", "score": 65.0 },
+            { "subject": "art", "score": 70.0 }
+        ],
+        "attendance": 88
+    },
+    "penelope": {
+        "grades": [
+            { "subject": "biology", "score": 58.0 },
+            { "subject": "english", "score": 62.0 }
+        ],
+        "attendance": 91
+    },
+    "quinn": {
+        "grades": [
+            { "subject": "geography", "score": 39.0 },
+            { "subject": "history", "score": 41.0 }
+        ],
+        "attendance": 79
+    },
+    "riley": {
+        "grades": [
+            { "subject": "maths", "score": 82.0 },
+            { "subject": "physics", "score": 75.0 }
+        ],
+        "attendance": 94
+    },
+    "sophia": {
+        "grades": [
+            { "subject": "chemistry", "score": 10.0 },
+            { "subject": "biology", "score": 15.0 }
+        ],
+        "attendance": 30
     }
 }
